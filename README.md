@@ -50,7 +50,3 @@ The system uses a DirectionalLight node to simulate the sun, with an AnimationPl
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Thank You!
-
-Thank you for downloading this simple little day-night cycle demo. I hope it helps improve the immersion and atmosphere in your games, or at least gets you started. If you have any questions or issues, create an issue in this repo or comment on one of my videos.
